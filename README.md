@@ -9,4 +9,4 @@
 
 **Kanban Board** found at: https://trello.com/b/mNFfTYlH/group-h-group-work
 
-![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/decfisher/GA-Group-H/actions/workflows/main.yml/badge.svg)
