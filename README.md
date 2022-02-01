@@ -9,7 +9,7 @@
 
 **Kanban Board** found at: https://trello.com/b/mNFfTYlH/group-h-group-work
 
-#Software Engineering Methods
+# Software Engineering Methods
 - Main Branch Status: ![workflow](https://github.com/decfisher/GA-Group-H/actions/workflows/main.yml/badge.svg)
 - Develop Branch Status: ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/decfisher/GA-Group-H/My%20Workflow/develop)
 - License: [![LICENSE](https://img.shields.io/github/license/decfisher/sem.svg?style=flat-square)](https://github.com/decfisher/sem/blob/master/LICENSE)
