@@ -8,11 +8,6 @@
     <artifactId>seMethods</artifactId>
     <version>0.1.0.1</version>
 
-<!--    <properties>-->
-<!--        <maven.compiler.source>17</maven.compiler.source>-->
-<!--        <maven.compiler.target>17</maven.compiler.target>-->
-<!--    </properties>-->
-
     <dependencies>
         <dependency>
             <groupId>org.mongodb</groupId>
@@ -35,7 +30,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.napier.sem.App</mainClass>
+                            <mainClass>com.napier.sem.TestApp</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
