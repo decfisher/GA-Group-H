@@ -9,5 +9,4 @@
 
 **Kanban Board** found at: https://trello.com/b/mNFfTYlH/group-h-group-work
 
-**Test**
-**Another Test**
+![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
