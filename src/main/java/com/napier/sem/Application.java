@@ -73,8 +73,8 @@ public class Application {
             Statement s = con.createStatement();
 
             String select = "SELECT emp_no, first_name, last_name "
-                    + "FROM employees "
-                    + "WHERE emp_no = " + ID;
+                            + "FROM employees "
+                            + "WHERE emp_no = " + ID;
 
             ResultSet rset = s.executeQuery(select);
 
