@@ -8,7 +8,7 @@ public class Main {
         Application app = new Application();
         app.connect();
         ArrayList<Employee> employees = app.getAllSalaries();
-        app.printSalaries(employees);
+        app.printSalaries(employees, "department");
         app.disconnect();
     }
 }
